@@ -82,6 +82,10 @@ Bearly Secure is deliberately unsafe. It contains exploitable authentication, au
 
 Do not deploy it or use its security patterns in a real application. Its credentials, integrations, payments, and third-party services are local simulations that use fake data only.
 
+## AI Usage Declaration
+
+Some changes in this repository were made with the assistance of AI tools (Claude Code). AI-assisted commits are reviewed and understood by the author before being pushed.
+
 ## Baseline Structure
 
 - `src/main.ts`: starts the HTTP server
